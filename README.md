@@ -3,7 +3,7 @@
 Welcome to the Hangman Game! This is a classic word-guessing game implemented in native JavaScript. Test your vocabulary skills and see how many attempts it takes you to guess the hidden word!
 
 ## Table of Contents
-
+- [Play on gh-pages](#play-on-gh-pages)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [How to Play](#how-to-play)
@@ -12,6 +12,10 @@ Welcome to the Hangman Game! This is a classic word-guessing game implemented in
 - [Contributing](#contributing)
 - [License](#license)
 
+## ❗❗❗Play on gh-pages 🌐❗❗❗ 
+
+- [Play on gh-pages](https://yermaka-a.github.io/gh-pages/hangman/index.html)
+  
 ## Features 🌟
 
 - Simple and intuitive user interface
